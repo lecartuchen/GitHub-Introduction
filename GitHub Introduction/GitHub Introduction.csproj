@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>GitHub_Introduction</RootNamespace>
+  </PropertyGroup>
+
+</Project>
